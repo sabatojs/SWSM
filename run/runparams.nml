@@ -1,0 +1,11 @@
+&RUNPARAMS
+ A = 6.378d6
+ g = 9.81d0
+ OMEGA = 7.292d-5
+ H0 = 4000.d0
+ dofrctn=.false.
+ tau = 240.d0
+ donrg = .false.
+ nrg = 1.d4
+ nu = 4.d16
+&END
